@@ -1,0 +1,2 @@
+﻿npm i redux-devtools-extension
+npm i redux-thunk
